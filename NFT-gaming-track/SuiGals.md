@@ -13,7 +13,7 @@ You can also include the project logo by adding the image file to the `assets` [
 
 ### Project Website
 
-https://suigals.vercel.app/
+https://www.suigals.com/
 
 https://twitter.com/suigalsnft
 
